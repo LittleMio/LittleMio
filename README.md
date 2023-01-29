@@ -1,20 +1,11 @@
-### (｡･∀･)ﾉﾞ嗨 欢迎来到我的GitHub个人主页
-### Hi there 👋 Welcome to my GitHub Profile
-
+<img src="./github-metrics.svg" align="right"></img>
 <p href="https://github.com/HuYo-OS" align="center">
-  <img src="https://moe-counter.huyo-os.repl.co/get/@HuYo-OS?theme=gelbooru" />
+  <img src="https://moe-counter.huyo-os.repl.co/get/@HuYo-OS?theme=gelbooru" style="width: 300px;">
+  <img src="https://genshin-card.himiku.com/3/273424120.png" title="My Genshin Impact Info" style="width: 300px;">
 </p>
-
-
-<p href="https://github.com/HuYo-OS">
-  <img src="https://genshin-card.himiku.com/3/273424120.png" title="My Genshin Impact Info" align="left" style="width: 300px;"/>
-</p>
-<img src="./github-metrics.svg" align='right'></img>
-
-<br><br><br><br><br><br>
-
 
 ### **Development Environment**
+
 ![](https://img.shields.io/badge/Windows11-0078d6?style=flat-square&logo=windows11&logoColor=fff)
 ![](https://img.shields.io/badge/-Ubuntu-fcc624?style=flat-square&logo=Ubuntu&logoColor=fff&color=e95420)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007acc?style=flat-square&logo=visual-studio-code&logoColor=fff)
