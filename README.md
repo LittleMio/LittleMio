@@ -1,6 +1,6 @@
 <img src="./github-metrics.svg" align="right"></img>
 <p href="https://github.com/HuYo-OS" align="center">
-  <img src="https://moe-counter.huyo-os.repl.co/get/@HuYo-OS?theme=gelbooru" style="width: 300px;">
+  <img src="https://moe-counter.huyo-os.repl.co/get/@HuYo-OS?theme=rule34" style="width: 300px;">
   <img src="https://genshin-card.himiku.com/3/273424120.png" title="My Genshin Impact Info" style="width: 300px;">
 </p>
 
