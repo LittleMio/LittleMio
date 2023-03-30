@@ -3,7 +3,7 @@ name: auto Requests
 on:
   schedule:
     # Run every 10 minutes
-    - cron: '*/13 * * * *'
+    - cron: '0/13 * * * *'
 
 jobs:
   run-python:
