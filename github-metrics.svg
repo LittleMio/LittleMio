@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1483" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1187" class="">
     <defs>
         <style/>
     </defs>
@@ -1428,7 +1428,7 @@
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">f5a42260</span>
-                            <span class="code">米游兔/info.json</span>
+                            <span class="code">原神_V玩家/info.json</span>
                             <span class="code">
                                 <span class="snippet additions">++0</span>
                                 <span class="snippet deletions">--1</span>
@@ -1439,14 +1439,14 @@
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"name":"米游兔","icon":"米游兔.png","items":["米游兔.png","阿姬倒地.png","阿姬得意.png","阿姬低落.png","阿姬调查.png","阿姬惊讶.png","阿姬开心.png","阿姬灵感.png","阿姬期待.png","阿姬疑问.png","吃雪糕.png","米游兔-加油.png","米游兔—飚汗.png","阿君得意.png","米游君-喝可乐.png","米游君—认真工作.png","米游君—杂耍.png","绝区姬_嗨.png","绝区姬_哇吼.png","米游君——认真工作.png","绝区姬_自拍.png","绝区姬_自信.png","米游姬-抱抱.png","米游姬-好耶.png","米游姬-抱米游兔.png","米游姬-期待哦.png","米游姬-抛心心.png","米游姬-献花.png","米游姬-休息.png","米游兔-OK.png","米游姬-卖萌.gif","米游姬-感谢.gif","米游姬-干杯.gif","米游姬-开心.gif","偶像姬_WINK.png","偶像姬_应援.png","偶像姬_达咩.png","偶像姬_糖葫芦.png","偶像姬_闪亮登场.png","偶像姬_期待.png","偶像姬-大声bb.png","阿姬-开心.png","偶像姬_超凶.png","偶像姬-沮丧.png","偶像姬_沮丧.png","偶像姬-鸽子.png","偶像姬_咕咕.png","偶像姬_撒花.png","米游姬-哼.png","米游姬-乖巧.png","米游姬-吃瓜.png","米游姬-呆滞.png","米游姬-疑问.png","米游姬-睡觉.png","米游姬-暗中观察.png","米游姬-惊.png","米游姬-点赞.png","米游姬-求求你啦.png","米游姬-期待.png","米游姬-打call.png","米游姬-撒花.png","米游姬-来了来了.png","米游姬-周五啦.png","米游姬-累趴.png","星穹米游姬_得意.png","星穹米游姬_哭唧唧.png","星穹米游姬_你好.png","星穹米游姬_耶！.png","吃糖葫芦.png","春节咕咕.png","放鞭炮.png","福到啦.png","恭贺新春.png","米游姬发福利.png","米游姬福袋.png","米游姬哈欠.png","米游姬抢红包.png","米游姬入欧.png","米游姬唢呐.png","米游兔好耶.png","米游兔脱非.png","牛气冲天.png","受到惊吓.png","我的心好痛.png","魔游姬哼哼.png","魔游姬得意.png","魔游姬害怕.png","魔游姬鸽子.png","魔游姬生气.png","魔游姬糖葫芦.png","米游姬比心.png","米游姬糖葫芦.png","米游姬咕咕.png","米游姬疑惑.png","米游姬得意.png","米游姬观察.png","米游姬抱抱.png","米游姬大哭.png","米游姬喝茶.png","米游姬流鼻血.png","米游姬委屈.png","米游兔加油.png","米游兔无奈.png","米游兔烟雾弹.png","米游兔笔心.png","米游兔糖葫芦.png","米游兔害怕.png","米游兔暗中观察.png","米游兔可怜兮兮.png","米游兔星星.png","米游兔递茶.png","米游兔吃惊.png","米游兔乖巧.png","米游兔自闭.png","米游兔安详.png","米游兔吨吨.png","米游兔举牌子.png","米游兔吃瓜.png","米游兔飞翔.png","米游兔期待.png"]}<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -1 +0,0 @@</span><br /><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">{"name":"原神_V玩家","icon":"原神_V玩家.png","items":["原神_V玩家.png","抱大腿.png","心情简单.png","心情复杂.png","盯.png","兔躯一震.png","好顶赞.png","庆贺吧.png","恰果看戏.png","喝茶.png","煮饭.png","嫌弃.png","哭哭.png","超凶.png","黑卡.png","是大佬.png","慌张.png","且听风吟.png","缉拿归案.png","时光交响之章表情包1.png","时光交响之章表情包2.png","时光交响之章表情包3.png","时光交响之章表情包4.png","时光交响之章表情包5.png","时光交响之章表情包6.png","时光交响之章表情包7.png","时光交响之章表情包8.png","时光交响之章表情包9.png","时光交响之章表情包10.png","时光交响之章表情包11.png","时光交响之章表情包12.png","时光交响之章表情包13.png","时光交响之章表情包14.png","时光交响之章表情包15.png","时光交响之章表情包16.png","时光交响之章表情包17.png"]}<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2023, 17:09:37 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jun 2023, 18:10:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
