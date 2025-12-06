@@ -1,7 +1,7 @@
 <img src="./github-metrics.svg" align="right"></img>
 <p href="https://github.com/HuYo-OS" align="center">
   <a href="https://count.littlebell.top"><img src="https://count.littlebell.top/get/@LittleMio?theme=rule34" style="width: 300px;"></a>
-  <a href="https://genshin-card.littlebell.top"><img src="https://genshin-card.littlebell.top/rand/273424120.png" title="My Genshin Impact Info" style="width: 300px;"></a>
+  <!-- <a href="https://genshin-card.littlebell.top"><img src="https://genshin-card.littlebell.top/rand/273424120.png" title="My Genshin Impact Info" style="width: 300px;"></a> -->
 </p>
 
 ### **Development Environment**
